@@ -13,6 +13,13 @@ Some videos will reference problems from textbooks, so here are the two textbook
 <p>
 <hr>
 <p>
+
+## Pre-work<p>
+- [x] Foundational-Math-1.ipynb<br>
+- [ ] Foundational-Math-2.ipynb<br>
+- [ ] Foundational-Math-3.ipynb<br>
+- [ ] Foundational-Math-4.ipynb<br>
+- [ ] Foundational-Math-5.ipynb<br>
 <hr>
 <p>
  
